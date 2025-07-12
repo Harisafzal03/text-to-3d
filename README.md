@@ -22,7 +22,7 @@ pip install -e .
 The easiest way to use this tool is with the provided shell script:
 
 ```bash
-./generate_model.sh "A modern house with a kitchen, living room, and two bedrooms"
+./generate_3d.sh "A modern house with a kitchen, living room, and two bedrooms"
 ```
 
 This will:
