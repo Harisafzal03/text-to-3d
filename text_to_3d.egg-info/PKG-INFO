@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: text-to-3d
+Version: 0.1.0
+Summary: A model that converts text to 2D layout then to 3D model
+Author: Text to 3D Developer
+Keywords: text-to-3d,layout,generation,3d-models
+Requires-Python: >=3.8
+Requires-Dist: torch>=1.8.0
+Requires-Dist: transformers>=4.5.0
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: matplotlib>=3.4.0
+Requires-Dist: nltk>=3.6.0
+Requires-Dist: tqdm>=4.60.0
+Dynamic: author
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
