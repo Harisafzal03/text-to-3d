@@ -1,1 +1,279 @@
-{"object_type": "house", "rooms": [{"type": "kitchen", "name": "0", "color": [0.40092485269359257, 0.6024570711991527, 0.9821013985559982]}, {"type": "kitchen", "name": "1", "color": [0.41907969121187094, 0.6241266067273733, 0.9939645244715745]}, {"type": "bedroom", "name": "2", "color": [1.0, 0.6210295388957088, 0.7913771443884621]}, {"type": "bedroom", "name": "3", "color": [1.0, 0.5795521343120792, 0.7991610315514682]}, {"type": "tv lounge", "name": "4", "color": [1.0, 0.7086217005072204, 0.3878532710809662]}], "colors": {}}
+{
+  "object_type": "house",
+  "rooms": [
+    {
+      "type": "corridor",
+      "name": "Corridor",
+      "color": [
+        0.4067446220570982,
+        0.19716184552419483,
+        0.9853965142792049
+      ],
+      "story": 1
+    },
+    {
+      "type": "tv lounge",
+      "name": "Tv lounge",
+      "color": [
+        1.0,
+        0.6773809719680896,
+        0.4064374857375688
+      ],
+      "story": 1
+    },
+    {
+      "type": "kitchen",
+      "name": "Kitchen",
+      "color": [
+        0.4149744342335009,
+        0.5820385165369856,
+        1.0
+      ],
+      "story": 1
+    },
+    {
+      "type": "bedroom",
+      "name": "Bedroom",
+      "color": [
+        1.0,
+        0.6224051872387142,
+        0.7808909704448315
+      ],
+      "story": 1
+    },
+    {
+      "type": "bedroom",
+      "name": "Bedroom",
+      "color": [
+        1.0,
+        0.5933463890312911,
+        0.812178639388796
+      ],
+      "story": 1
+    },
+    {
+      "type": "washroom",
+      "name": "Washroom",
+      "color": [
+        0.5240335129999015,
+        0.9174578102592484,
+        0.614711057482687
+      ],
+      "story": 1
+    },
+    {
+      "type": "washroom",
+      "name": "Washroom",
+      "color": [
+        0.5042170418093168,
+        0.9162070806512795,
+        0.5873923483920653
+      ],
+      "story": 1
+    },
+    {
+      "type": "garage",
+      "name": "Garage",
+      "color": [
+        0.6223159711986291,
+        0.6021511718961046,
+        0.6789269099652195
+      ],
+      "story": 1
+    }
+  ],
+  "doors": [
+    {
+      "type": "standard",
+      "position": [
+        2.844947802684612,
+        7.112369506711528,
+        0.0
+      ],
+      "orientation": "horizontal",
+      "dimensions": [
+        0.9,
+        0.1,
+        2.1
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "standard",
+      "position": [
+        8.534843408053836,
+        7.112369506711528,
+        0.0
+      ],
+      "orientation": "vertical",
+      "dimensions": [
+        0.9,
+        0.1,
+        2.1
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        2
+      ]
+    },
+    {
+      "type": "standard",
+      "position": [
+        4.267421704026918,
+        7.112369506711528,
+        0.0
+      ],
+      "orientation": "vertical",
+      "dimensions": [
+        0.9,
+        0.1,
+        2.1
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        3
+      ]
+    },
+    {
+      "type": "standard",
+      "position": [
+        7.112369506711531,
+        10.668554260067292,
+        0.0
+      ],
+      "orientation": "vertical",
+      "dimensions": [
+        0.9,
+        0.1,
+        2.1
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        4
+      ]
+    },
+    {
+      "type": "standard",
+      "position": [
+        4.267421704026918,
+        10.668554260067292,
+        0.0
+      ],
+      "orientation": "vertical",
+      "dimensions": [
+        0.9,
+        0.1,
+        2.1
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        5
+      ]
+    },
+    {
+      "type": "standard",
+      "position": [
+        9.957317309396142,
+        10.668554260067292,
+        0.0
+      ],
+      "orientation": "vertical",
+      "dimensions": [
+        0.9,
+        0.1,
+        2.1
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        6
+      ]
+    },
+    {
+      "type": "standard",
+      "position": [
+        2.844947802684612,
+        8.89046188338941,
+        0.0
+      ],
+      "orientation": "horizontal",
+      "dimensions": [
+        0.9,
+        0.1,
+        2.1
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        7
+      ]
+    },
+    {
+      "type": "main_entrance",
+      "position": [
+        7.112369506711531,
+        7.112369506711528,
+        0.0
+      ],
+      "orientation": "vertical",
+      "dimensions": [
+        1.08,
+        0.1,
+        2.3100000000000005
+      ],
+      "color": [
+        0.6,
+        0.4,
+        0.2
+      ],
+      "connects": [
+        0,
+        -1
+      ]
+    }
+  ],
+  "colors": {},
+  "plot_size": {
+    "marla": 10.0,
+    "kanal": 0.5,
+    "width_meters": 14.22473901342306,
+    "length_meters": 17.78092376677882
+  },
+  "stories": 1
+}

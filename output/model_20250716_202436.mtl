@@ -1,0 +1,261 @@
+# Material file for 3D model
+
+newmtl room_0
+Ka 0.4067446220570982 0.19716184552419483 0.9853965142792049
+Kd 0.4067446220570982 0.19716184552419483 0.9853965142792049
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl room_1
+Ka 1.0 0.6773809719680896 0.4064374857375688
+Kd 1.0 0.6773809719680896 0.4064374857375688
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl room_2
+Ka 0.4149744342335009 0.5820385165369856 1.0
+Kd 0.4149744342335009 0.5820385165369856 1.0
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl room_3
+Ka 1.0 0.6224051872387142 0.7808909704448315
+Kd 1.0 0.6224051872387142 0.7808909704448315
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl room_4
+Ka 1.0 0.5933463890312911 0.812178639388796
+Kd 1.0 0.5933463890312911 0.812178639388796
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl room_5
+Ka 0.5240335129999015 0.9174578102592484 0.614711057482687
+Kd 0.5240335129999015 0.9174578102592484 0.614711057482687
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl room_6
+Ka 0.5042170418093168 0.9162070806512795 0.5873923483920653
+Kd 0.5042170418093168 0.9162070806512795 0.5873923483920653
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl room_7
+Ka 0.6223159711986291 0.6021511718961046 0.6789269099652195
+Kd 0.6223159711986291 0.6021511718961046 0.6789269099652195
+Ks 0.1 0.1 0.1
+illum 2
+Ns 10.0
+
+newmtl furniture_0
+Ka 0.3 0.3 0.7
+Kd 0.3 0.3 0.7
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_1
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_2
+Ka 0.7 0.5 0.3
+Kd 0.7 0.5 0.3
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_3
+Ka 0.9 0.9 0.9
+Kd 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_4
+Ka 0.9 0.9 0.9
+Kd 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_5
+Ka 0.8 0.6 0.4
+Kd 0.8 0.6 0.4
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_6
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_7
+Ka 0.5 0.35 0.2
+Kd 0.5 0.35 0.2
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_8
+Ka 0.65 0.5 0.4
+Kd 0.65 0.5 0.4
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_9
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_10
+Ka 0.5 0.35 0.2
+Kd 0.5 0.35 0.2
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_11
+Ka 0.65 0.5 0.4
+Kd 0.65 0.5 0.4
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_12
+Ka 0.9 0.9 0.9
+Kd 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_13
+Ka 0.9 0.9 0.9
+Kd 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_14
+Ka 0.8 0.8 0.95
+Kd 0.8 0.8 0.95
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_15
+Ka 0.9 0.9 0.9
+Kd 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_16
+Ka 0.9 0.9 0.9
+Kd 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_17
+Ka 0.8 0.8 0.95
+Kd 0.8 0.8 0.95
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_18
+Ka 0.7 0.1 0.1
+Kd 0.7 0.1 0.1
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_19
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl furniture_20
+Ka 0.7 0.3 0.2
+Kd 0.7 0.3 0.2
+Ks 0.2 0.2 0.2
+illum 2
+Ns 20.0
+
+newmtl door_0
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
+newmtl door_1
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
+newmtl door_2
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
+newmtl door_3
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
+newmtl door_4
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
+newmtl door_5
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
+newmtl door_6
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
+newmtl door_7
+Ka 0.6 0.4 0.2
+Kd 0.6 0.4 0.2
+Ks 0.3 0.3 0.3
+illum 2
+Ns 30.0
+
